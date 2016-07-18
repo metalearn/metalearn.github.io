@@ -195,7 +195,7 @@ section.success {
 }
 
 #about .container {
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: white;
 }
 
 #portfolio .portfolio-item {
