@@ -460,3 +460,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.max-font {
+    font-size: 2.7em;
+}
