@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: TeachMe
-  location: Belo Horizonte, MG
+  location: Belo Horizonte, MG Brasil
   social: 
   credits: 
 
@@ -50,7 +50,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 
-  - line: Brasil
+  - line: 
 
 # Credits content
 credits: 'Cadastre-se e encontre alunos próximos a você.'
