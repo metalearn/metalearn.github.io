@@ -1,9 +1,9 @@
 # Site settings
-title: TeachMe
+title: MetaLearn
 email: gabriel@beestart.com.br
 url: https://example.github.io
-description: "Cadastre-se e encontre alunos próximos a você."
-skills: "CONQUISTE NOVOS ALUNOS!"
+description: "Consiga conteúdo de forma estruturada e rápida."
+skills: "ECONOMIZE TEMPO E DINHEIRO!"
 meta_author: Capanema Gabriel
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: TeachMe
+  copyright: MetaLearn
   location: Belo Horizonte, MG Brasil
   social: 
   credits: 
